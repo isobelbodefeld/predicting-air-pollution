@@ -1,8 +1,11 @@
 ---
-title: "Report 2: Predicting Ambient Air Pollution Concentrations Across the Continental US"
-author: 'Isobel Bodefeld'
-output: html_document
-date: 2023-12-1
+title: 'Report 2: Predicting Ambient Air Pollution Concentrations Across the Continental
+  US'
+author: "Isobel Bodefeld"
+date: "2023-12-1"
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r global_options, include=FALSE}
